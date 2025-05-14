@@ -1,8 +1,9 @@
 # 👋 Hi there, I'm @Leyaaaan1
 
-- 👀 I’m interested in Java  
-- 🌱 I’m currently learning Spring Framework  
+- 👀 I’m interested in **Java** 
+- 🌱 I’m currently learning **Spring Framework** for my side project
 - 📫 Reach me at **paninsorolean@gmail.com**
+- 💻 Currently developing a **Laravel web app** for our Software Engineering course — using **React** for the frontend and **Tailwind CSS** for styling
 
 ---
 
@@ -13,7 +14,6 @@
 ### 🧠 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leyaaaan1&layout=compact&theme=tokyonight&langs_count=20)
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Leyaaaan1&theme=tokyonight)
 
 
 <!---
