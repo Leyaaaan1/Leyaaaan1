@@ -12,14 +12,6 @@
 ### 🧠 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leyaaaan1&layout=compact&theme=tokyonight)
 
----
-
-### 🏆 Contributions
-- 💼 Built [RidersHub](https://github.com/Leyaaaan1/RidersHub) using Java and Spring
-
-
----
-
 <!---
 Leyaaaan1/Leyaaaan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
