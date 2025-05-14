@@ -13,6 +13,7 @@
 ### 🧠 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leyaaaan1&layout=compact&theme=tokyonight&langs_count=20)
 
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Leyaaaan1&theme=tokyonight)
 
 
 <!---
