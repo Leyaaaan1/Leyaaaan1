@@ -5,6 +5,8 @@
 - 📫 Reach me at **paninsorolean@gmail.com**
 - 💻 Currently developing a **Laravel web app** for our Software Engineering course — using **React** for the frontend and **Tailwind CSS** for styling
 
+
+Aspiring backend developer with a strong foundation in Java and Spring Boot, focusing on building scalable, secure, and data-driven systems. Currently expanding backend skills through Laravel for academic projects, with a consistent emphasis on API development, database design, and systems integration
 ---
 
 ### 🔧 My GitHub Stats
