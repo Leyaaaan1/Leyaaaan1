@@ -8,6 +8,7 @@
 
 ### 🔧 My GitHub Stats
 ![Leyaaaan1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leyaaaan1&show_icons=true&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=leandropaninsoro)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🧠 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leyaaaan1&layout=compact&theme=tokyonight)
