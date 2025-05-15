@@ -7,7 +7,7 @@
 
 
 💡 **About Me**  
-Aspiring backend developer with a strong foundation in **Java** and **Spring Boot**, focused on building scalable, secure, and data-driven systems. Currently expanding backend skills through **Laravel** in academic projects, with an emphasis on API development, database design, and systems integration.
+Aspiring backend developer with a solid foundation in **Java** and **Spring Boot**. Currently enhancing backend skills through **Laravel**, with a consistent focus on API development, database design, and systems integration.
 
 ---
 
