@@ -39,7 +39,7 @@
 
 <h4>📊 Reddit Analytics Platform</h4>
 <p>
-🔗 <a href="https://saas-apify.vercel.app/">Live Demo</a>
+🔗 <a href="https://reddit-something.vercel.app/">Live Demo</a>
 </p>
 
 <ul>
