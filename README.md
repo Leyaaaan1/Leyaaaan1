@@ -4,11 +4,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leyaaaan1&" alt="leyaaaan1" /></p>
 
-- 🔭 I’m currently working on [RidersHub](https://github.com/Leyaaaan1/RidersHub)
+-  I’m currently working on [Laagan](https://github.com/Leyaaaan1/laagan)
 
-- 🌱 I’m currently learning **Spring**
+-  I’m currently learning **Spring**
 
-- 📫 How to reach me **paninsorolean@gmail.com**
+- How to reach me **paninsorolean@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +17,7 @@
 
 <h3 align="left">Projects</h3>
 
-<h4>🚀 Rider Sharing Platform (In Progress)</h4>
+<h4> Rider Sharing Platform </h4>
 <p>
 🔗 <a href="https://github.com/Leyaaaan1/laagan">GitHub Repository</a>
 </p>
@@ -27,9 +27,9 @@
 <li>Designed a scalable <b>REST API</b> with <b>MVC architecture</b> handling authentication, ride processing, and real-time geolocation updates.</li>
 </ul>
 
-<h4>💼 OnlyJobsWeb – Job Matching Platform</h4>
+<h4> OnlyJobsWeb – Job Matching Platform</h4>
 <p>
-🔗 <a href="https://github.com/bakaraw/OnlyJobsWeb">GitHub Repository</a>
+ <a href="https://github.com/bakaraw/OnlyJobsWeb">GitHub Repository</a>
 </p>
 
 <ul>
@@ -37,7 +37,7 @@
 <li>Implemented <b>Admin Dashboard</b> and <b>Role-Based Access Control (RBAC)</b> contributing to both <b>React frontend</b> and <b>Laravel backend</b>.</li>
 </ul>
 
-<h4>📊 Reddit Analytics Platform</h4>
+<h4>Reddit Analytics Platform</h4>
 <p>
 🔗 <a href="https://reddit-something.vercel.app/">Live Demo</a>
 </p>
@@ -47,7 +47,7 @@
 <li>Built with <b>Next.js + TypeScript</b> using <b>LocalStorage</b> for private per-user data storage.</li>
 </ul>
 
-<h4>🌌 Planetary Free-Fall Simulator</h4>
+<h4> Planetary Free-Fall Simulator</h4>
 <p>
 🔗 <a href="https://free-fall-ten.vercel.app/">Live Demo</a>
 </p>
