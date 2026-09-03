@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Leandro Paninsoro 👋
+# Hi, I'm Lean Paninsoro 👋
 
 ### Junior Software Engineer · Backend-Focused Developer
 
-📍 Davao City, Philippines
+📍  Philippines
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Leyaaaan1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:paninsorolean@gmail.com)
@@ -17,13 +17,13 @@
 
 ## About Me
 
-I'm a junior software engineer based in Davao City, Philippines, focused on building reliable backend systems and full‑stack applications. My core strength is designing REST APIs and service‑layer architecture with **Java (Spring Boot)** and **PHP (Laravel)**, and I extend that into full‑stack delivery with **Next.js**, **React Native**, **Python**, **SQL**, and **Redis**.
+I'm a junior software engineer based in the Philippines, focused on building reliable backend systems and full‑stack applications. My core strength is designing REST APIs and service‑layer architecture with **Java (Spring Boot)** and **PHP (Laravel)**, and I extend that into full‑stack delivery with **Next.js**, **React Native**, **Python**, **SQL**, and **Redis**.
 
 I've shipped a mobile application to the **Google Play Store with 50+ active users**, and built an **enterprise Spring Boot system for a government regional office** — giving me hands‑on experience taking a project from architecture through to production, not just tutorials. I care about clean, maintainable code and I'm always sharpening my backend and system‑design fundamentals.
 
 <br/>
 
-## 🧰 Technical Toolbox
+## Tech 
 
 **Languages**
 
@@ -56,9 +56,9 @@ I've shipped a mobile application to the **Google Play Store with 50+ active use
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🛵 Laagan — Ride-Sharing Platform
+###  Laagan — Ride-Sharing Platform
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -68,11 +68,11 @@ I've shipped a mobile application to the **Google Play Store with 50+ active use
 - Designed a scalable **REST API** with **MVC architecture** handling authentication, ride processing, and real-time geolocation updates.
 - 📱 Published to the **Google Play Store**, reaching **50+ active users**.
 
-[🔗 Repository](https://github.com/Leyaaaan1/laagan)
+[ Repository](https://github.com/Leyaaaan1/laagan)
 
 ---
 
-### 🏛️ Enterprise Records System — Government Regional Office
+###  Enterprise Records System — Government Regional Office
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -93,11 +93,11 @@ I've shipped a mobile application to the **Google Play Store with 50+ active use
 - Developed **10+ RESTful APIs** using **Laravel** for authentication, job postings, and application tracking.
 - Built an **admin dashboard** with **role-based access control (RBAC)**, contributing across both the React frontend and Laravel backend.
 
-[🔗 Repository](https://github.com/bakaraw/OnlyJobsWeb)
+[ Repository](https://github.com/bakaraw/OnlyJobsWeb)
 
 ---
 
-### 📊 Reddit Analytics Platform
+### Reddit Analytics Platform
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -106,11 +106,11 @@ I've shipped a mobile application to the **Google Play Store with 50+ active use
 - Scrapes Reddit posts and analyzes them using **Google Gemini AI** to generate sentiment, summaries, and keywords.
 - Built with **Next.js + TypeScript**, using local per-session storage to keep user data private.
 
-[🔗 Live Demo](https://reddit-something.vercel.app/)
+[ Live Demo](https://reddit-something.vercel.app/)
 
 ---
 
-### 🪐 Planetary Free-Fall Simulator
+###  Planetary Free-Fall Simulator
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -123,7 +123,7 @@ I've shipped a mobile application to the **Google Play Store with 50+ active use
 
 <br/>
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -140,7 +140,7 @@ I've shipped a mobile application to the **Google Play Store with 50+ active use
 
 <br/>
 
-## 🌱 Currently
+##  Currently
 
 - Deepening my knowledge of the Spring ecosystem and modern backend deployment practices (Docker, CI/CD).
 - Growing **Laagan** into a fully-launched, production-ready mobile app.
