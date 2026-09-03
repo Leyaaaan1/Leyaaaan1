@@ -5,6 +5,7 @@
 ### Junior Software Engineer · Backend-Focused Developer
 
 📍  Philippines
+<br/>
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:paninsorolean@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/lean-paninsoro-587b89267) <!-- TODO: replace with your LinkedIn URL -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://leanpaninsoro.dev/) <!-- TODO: replace with your portfolio URL -->
