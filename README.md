@@ -41,18 +41,6 @@ I've shipped a mobile application to the **Google Play Store with 50+ active use
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**Databases & Caching**
-
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Tools & Platforms**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Google Play Console](https://img.shields.io/badge/Google_Play_Console-414141?style=flat-square&logo=googleplay&logoColor=white)
-
 <br/>
 
 ##  Featured Projects
