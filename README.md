@@ -2,7 +2,7 @@
 
 # Hi, I'm Lean Paninsoro 👋
 
-### Junior Software Engineer · Backend-Focused Developer
+###  Backend-Focused Developer
 
 📍  Philippines
 <br/>
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a junior software engineer based in the Philippines, focused on building reliable backend systems and full‑stack applications. My core strength is designing REST APIs and service‑layer architecture with **Java (Spring Boot)** and **PHP (Laravel)**, and I extend that into full‑stack delivery with **Next.js**, **React Native**, **Python**, **SQL**, and **Redis**.
+I'm a based in the Philippines, focused on building reliable backend systems and full‑stack applications. My core strength is designing REST APIs and service‑layer architecture with **Java (Spring Boot)** and **PHP (Laravel)**, and I extend that into full‑stack delivery with **Next.js**, **React Native**, **Python**, **SQL**, and **Redis**.
 
 I've shipped a mobile application to the **Google Play Store with 50+ active users**, and built an **enterprise Spring Boot system for a government regional office** — giving me hands‑on experience taking a project from architecture through to production, not just tutorials. I care about clean, maintainable code and I'm always sharpening my backend and system‑design fundamentals.
 
