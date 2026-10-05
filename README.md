@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Lean Paninsoro 👋
+# Hi, I'm Leandro Paninsoro 👋
 
 ###  Backend-Focused Developer
 
